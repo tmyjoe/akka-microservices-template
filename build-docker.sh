@@ -1,0 +1,1 @@
+sbt assembly && docker build -t sample-akka-service .
